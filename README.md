@@ -10,7 +10,7 @@ An interactive tool to **clean, transform, and visualize raw CSV data**. Built w
 
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Radix UI, shadcn UI, Recharts, React Hook Form, Zod  
 
-🔗 [View Repository](#)  
+🔗 [View Repository](#https://github.com/ayushisinghkashyap/DataPipeline-Project-Ayushi)  
 
 ---
 
@@ -19,7 +19,7 @@ A **responsive web application** for **centralized access, dashboards, and analy
 
 **Tech Stack:** React, TypeScript, Tailwind CSS, Vite, Node.js, Git  
 
-🔗 [View Repository](#)  
+🔗 [View Repository](#https://github.com/ayushisinghkashyap/project-bolt-Ayushi)  
 
 ---
 
@@ -27,8 +27,7 @@ A **responsive web application** for **centralized access, dashboards, and analy
 A **mobile-first app** to **consult doctors online**, manage prescriptions, and book appointments. Supports chat & video consultations for remote healthcare.  
 
 **Tech Stack:** Java, HTML, CSS, JavaScript  
-
-🔗 [View Repository](#)  
+ 
 
 ---
 
